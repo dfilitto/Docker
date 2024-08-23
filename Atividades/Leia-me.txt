@@ -1,0 +1,2 @@
+Aqui você encontrará várias atividades focadas no uso do docker. 
+Na maioria das vezes você também poderá encontrar os recursos estudados finalizados dentro da mesma.
